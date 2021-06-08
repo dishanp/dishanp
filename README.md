@@ -21,7 +21,7 @@
 <table>
   <tbody>
     <tr valign="top">
-    <img align="right" alt="GIF" src="https://github.com/demartini/demartini/blob/master/code.gif"?raw=true" width="350" height="240" />
+    <img  alt="GIF" src="https://github.com/demartini/demartini/blob/master/code.gif"?raw=true" width="350" height="240" />
       <td width="25%" align="center">
         <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
