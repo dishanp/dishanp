@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Undergraduate | Student Researcher | Data Science Enthusiast</h3>
 <p align="center">
 <br>
-<img align="right" alt="GIF" src="https://rishavanand.github.io/static/images/greetings.gif?raw=true" width="350" height="200" />
+<img align="right" alt="GIF" src="https://github.com/demartini/demartini/blob/master/code.gif?raw=true" width="350" height="240" />
 
 
 
@@ -12,7 +12,9 @@
 ✔ I write technical and educational articles @**GeeksforGeeks** <br>
 ✔ I love to write clean and efficient code in **C,C++ and Java.** <br>
 ✔ Always willing to collaborate to work on innovative ideas! <br>
-
+  <br>
+  <a target="_blank" href="https://dishanp.github.io/MyPortfolio_/"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>
+<br>
 
 
 
@@ -21,7 +23,6 @@
 <table>
   <tbody>
     <tr valign="top">
-    <img  alt="GIF" src="https://github.com/demartini/demartini/blob/master/code.gif"?raw=true" width="350" height="240" />
       <td width="20%" align="center">
         <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
@@ -94,7 +95,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-dishanp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dishanp/)](https://www.linkedin.com/in/dishanp/)
 [![Gmail Badge](https://img.shields.io/badge/-dishan.purkayastha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dishan.purkayastha@gmail.com)](mailto:dishan.purkayastha@gmail.com)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dishanp.dishanp)
-<a target="_blank" href="https://dishanp.github.io/MyPortfolio_/"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>
+
 
  ![Dishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dishanp&show_icons=true&theme=gruvbox)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dishanp&layout=compact&theme=gruvbox)](https://github.com/dishanp/github-readme-stats)
