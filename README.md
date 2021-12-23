@@ -1,5 +1,5 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Dishan</h1>
-<h3 align="center">Computer Science Undergraduate | Student Researcher </h3>
+<h3 align="center">Computer Science | Software Development | Product Management</h3>
 <p align="center">
 <br>
 <img align="right" alt="GIF" src="https://github.com/demartini/demartini/blob/master/code.gif?raw=true" width="350" height="240" />
