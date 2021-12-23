@@ -7,7 +7,7 @@
 
 
 ✔ I’m currently interning @**NielsenIQ** <br>
-✔ I’m working as a student reseacher @**Samsung** <br>
+✔ I have worked as a Reseach Intern @**Samsung** <br>
 ✔ I’m serving as a Web Developer @**Mozilla BBSR** and  @**KIIT Hack Club** <br>
 ✔ I write technical and educational articles @**GeeksforGeeks** <br>
 ✔ I love to write clean and efficient code in **C,C++ and Java.** <br>
@@ -97,7 +97,7 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dishanp.dishanp)
 
 
- ![Dishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dishanp&show_icons=true&theme=gruvbox)
+![Dishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dishanp&show_icons=true&theme=gruvbox)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dishanp&layout=compact&theme=gruvbox)](https://github.com/dishanp/github-readme-stats)
 
 
