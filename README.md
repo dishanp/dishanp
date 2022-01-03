@@ -7,7 +7,7 @@
 
 
 ✔ I’m currently interning @**NielsenIQ** <br>
-✔ I have worked as a Reseach Intern @**Samsung** <br>
+✔ Former Reseach Intern @**Samsung** <br>
 ✔ I’m serving as a Web Developer @**Mozilla BBSR** and  @**KIIT Hack Club** <br>
 ✔ I write technical and educational articles @**GeeksforGeeks** <br>
 ✔ I love to write clean and efficient code in **C,C++ and Java.** <br>
