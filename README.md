@@ -1,20 +1,21 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Dishan</h1>
-<h3 align="center">Computer Science | Software Development | Product Management</h3>
+<h3 align="center">Product Management | Software Development | Tech Consulting </h3>
 <p align="center">
 <br>
 <img align="right" alt="GIF" src="https://github.com/demartini/demartini/blob/master/code.gif?raw=true" width="350" height="240" />
 
 
 
-✔ I’m currently interning @**NielsenIQ** <br>
-✔ Former Research Intern @**Samsung** <br>
-✔ I’m serving as a Web Developer @**Mozilla BBSR** and  @**KIIT Hack Club** <br>
-✔ I write technical and educational articles @**GeeksforGeeks** <br>
-✔ I love to write clean and efficient code in **C,C++ and Java.** <br>
-✔ Always willing to collaborate to work on innovative ideas! <br>
+✔ Currently working as a **Product Specialist** @**NielsenIQ** 💻<br> 
+✔ Declared as one of **India's Smartest Coders** by **The Economic Times** 🚀<br>
+✔ Former **Research Intern** @**Samsung** 👨‍💻 <br>
+✔ **Fun Fact:** I also happen to have the **consulting** bug in me 📈 <br>
+✔ Designed **strategy frameworks** that helped crack **Bain** and **McKinsey** case interviews 💼 <br>
+✔ I write technical and educational articles @**GeeksforGeeks** 📱<br>
+✔ Always willing to collaborate to work on innovative ideas! 💡<br>
   <br>
-  <a target="_blank" href="https://dishanp.github.io/MyPortfolio_/"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>
-<br>
+ 
+
 
 
 
