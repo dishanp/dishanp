@@ -5,7 +5,6 @@
 <img align="right" alt="GIF" src="https://github.com/demartini/demartini/blob/master/code.gif?raw=true" width="350" height="240" />
 
 ✔ Recognised as one of **India's Smartest Coders** by **The Economic Times** 🚀<br>
-✔ Former **Research Intern** @**Samsung** 👨‍💻 <br>
 ✔ I write technical and educational articles @**GeeksforGeeks** 📱<br>
 ✔ Always willing to collaborate to work on innovative ideas! 💡<br>
   <br>
