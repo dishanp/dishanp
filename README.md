@@ -1,23 +1,14 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Dishan</h1>
-<h3 align="center">Product Management | Software Development | Tech Consulting </h3>
+<h3 align="center"> Product Management | Strategy Consulting | Software Development </h3>
 <p align="center">
 <br>
 <img align="right" alt="GIF" src="https://github.com/demartini/demartini/blob/master/code.gif?raw=true" width="350" height="240" />
 
-
-
-✔ Currently working as a **Product Specialist** @**NielsenIQ** 💻<br> 
-✔ Declared as one of **India's Smartest Coders** by **The Economic Times** 🚀<br>
+✔ Recognised as one of **India's Smartest Coders** by **The Economic Times** 🚀<br>
 ✔ Former **Research Intern** @**Samsung** 👨‍💻 <br>
-✔ **Fun Fact:** I also happen to have the **consulting** bug in me 📈 <br>
-✔ Designed **strategy frameworks** that helped crack **Bain** and **McKinsey** case interviews 💼 <br>
 ✔ I write technical and educational articles @**GeeksforGeeks** 📱<br>
 ✔ Always willing to collaborate to work on innovative ideas! 💡<br>
   <br>
- 
-
-
-
 
 ## My Tech Stack 💻
 
@@ -93,9 +84,7 @@
 </table>
 
 ## Connect With Me 📫
-[![Linkedin Badge](https://img.shields.io/badge/-dishanp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dishanp/)](https://www.linkedin.com/in/dishanp/)
 [![Gmail Badge](https://img.shields.io/badge/-dishan.purkayastha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dishan.purkayastha@gmail.com)](mailto:dishan.purkayastha@gmail.com)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dishanp.dishanp)
 
 
 ![Dishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dishanp&show_icons=true&theme=gruvbox)
